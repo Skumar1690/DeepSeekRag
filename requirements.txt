@@ -1,0 +1,9 @@
+streamlit
+PyMuPDF==1.23.7        # For PDF parsing
+openai                 # For OpenAI API (if used)
+deepseek               # For DeepSeek RAG model integration
+python-dotenv          # If using .env file for API keys
+requests               # For API calls (commonly needed)
+
+langchain
+faiss-cpu
