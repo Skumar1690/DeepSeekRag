@@ -1,0 +1,15 @@
+RAG Project Test Document
+Created for DeepSeek API Integration
+
+This document is a sample for testing a Retrieval-Augmented Generation (RAG) system. The system processes PDF files, extracts text, and uses the DeepSeek API to answer questions based on the content.
+
+Key Points:
+1. RAG combines text retrieval with AI generation for accurate answers.
+2. The DeepSeek API powers the generation step, using a transformer-based model.
+3. ChromaDB is used to store text embeddings for efficient retrieval.
+4. The system is designed to handle questions about the document's content.
+
+Applications:
+- Question-answering systems for educational materials.
+- Automated summarization of reports.
+- Knowledge extraction from technical documents.
